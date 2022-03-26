@@ -12,3 +12,7 @@ To play the game:
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+Feel free to add a description of what you’ve accomplished so far. As a reminder, you have:
+Left reviews and line comments
+Created a file and made a commit
+Opened a pull request
